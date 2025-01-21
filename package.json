@@ -1,0 +1,19 @@
+{
+  "name": "prisma-utils",
+  "version": "1.0.0",
+  "private": true,
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "@prisma/client": "^6.2.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  }
+}
